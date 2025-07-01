@@ -1,0 +1,14 @@
+name: InventorySave
+version: 1.0
+main: com.mcdoksakura.inventorysave.InventorySavePlugin
+api-version: 1.12.2
+description: A plugin that saves player inventory on death with up to 3 backups
+commands:
+  invrestore:
+    description: Restore inventory from a backup
+    usage: /invrestore [backup-number]
+    permission: inventorysave.restore
+permissions:
+  inventorysave.restore:
+    description: Allows players to restore their inventory from backups
+    default: true 

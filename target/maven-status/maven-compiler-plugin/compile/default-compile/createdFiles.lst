@@ -1,0 +1,4 @@
+com/mcdoksakura/inventorysave/InventorySavePlugin.class
+com/mcdoksakura/inventorysave/PlayerDeathListener.class
+com/mcdoksakura/inventorysave/InventoryManager.class
+com/mcdoksakura/inventorysave/RestoreCommand.class
